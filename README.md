@@ -1,2 +1,2 @@
 # python-learning
-just for fun
+2020.10
